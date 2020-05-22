@@ -2,7 +2,7 @@ package org.innopolis.devops.group4;
 
 public class App {
 
-    private final String message = "Hello World!!! Plup.";
+    private final String message = "Hello World!!! Plup. Piyap.";
 
     public App() {}
 
